@@ -3,3 +3,6 @@ My first repository
 
 Im Mickyfifi
 This is Readme Edits
+
+Im tikplus
+Second Commiter
